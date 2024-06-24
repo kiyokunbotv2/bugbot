@@ -1,7 +1,7 @@
 # Thomas_Shelby_Bugbot
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<img src="https://telegra.ph/file/0c9c4a9c030f3ae467d0a.jpg"/> 
+<img src="https://telegra.ph/file/7b1b59436bb3c3a33a289.jpg"/> 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+THOMAS+SHELBY;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
@@ -34,7 +34,7 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/916009259402"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@HacktivistHive"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@HacktivistHive" /><br>
 <p align="center">
